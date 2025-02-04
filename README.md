@@ -26,3 +26,6 @@ Este projeto controla três LEDs (vermelho, amarelo e verde) conectados ao Raspb
   - Verde → Vermelho
 - O programa exibe mensagens no console serial a cada segundo para depuração.
 
+  ## Adaptção para a BitDogLab
+  Caso seja testado na placa de desenvolvimento BitDogLab o led amarelo será substituído pelo led azul para evitar conflítos entre o ambiente virtual e a placa.
+
